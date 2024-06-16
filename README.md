@@ -1,0 +1,2 @@
+# CoffeShop
+ O CoffeeShop é um gerenciador completo para cafeterias, oferecendo funcionalidades abrangentes para controle de estoque, gestão financeira, pedidos de clientes e mais. Desenvolvido com Next.js, React e Node.js, o projeto visa facilitar a administração eficiente de negócios no setor de café.  Funcionalidades principais:  Controle de Estoque Gestão de Caixa Cadastro e Gestão de Clientes Processamento de Pedidos Catálogo de Produtos e Promoções Este repositório serve como base para o desenvolvimento contínuo do CoffeeShop. Contribuições são bem-vindas!
